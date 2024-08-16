@@ -31,7 +31,7 @@ For the comparison, I created new variables:
 ## EDA
 I looked at the distributions of the data and combined different statistics. Below are a few highlights from the pivot tables. 
 
-![download](https://user-images.githubusercontent.com/60159274/193351786-0b2b62b7-9c17-445d-9e38-69ec83c56478.png)
+!![confusion](https://github.com/user-attachments/assets/e668cc1b-763f-4c8c-95ff-bb01f0872138)
 ![download-1](https://user-images.githubusercontent.com/60159274/193351801-02bda442-2f59-45e7-8399-af5524890c3e.png)
 
 ## 2-sample t-test
