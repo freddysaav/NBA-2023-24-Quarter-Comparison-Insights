@@ -1,11 +1,11 @@
   # NBA-2023-24-Quarter-Comparison-Insights
 
-* Compares the first three quarters with the last quarter --> fewer points in the 4th quarter are a result of slower pace (fewer possessions), not because of more defensive intensity
-* Scraped the games and box score stats of the 2021/2022 season
-* Engineered advanced stats from the traditional stats
-* Visualized different stats and trends in specific game situations
-* Made a 2-sample t-test to prove my observations
-* KMeans clustering --> the top teams can elevate their game in the 4th quarter
+* Comparing the first three quarters with the last quarter shows that fewer points in the 4th quarter result from a slower pace (fewer possessions), rather than increased defensive intensity.
+* Scraped game and box score statistics for the 2021/2022 season.
+* Engineered advanced statistics from traditional stats.
+* Visualized various statistics and trends in specific game situations.
+* Conducted a 2-sample t-test to validate my observations.
+* KMeans clustering revealed that the top teams can elevate their performance in the 4th quarter.
 
 ## Code and Resources Used 
 * Python Version: 3.7  
@@ -41,10 +41,9 @@ I tested statistics from the first three quarters to see if they're significantl
 
 ## KMeans Clustering (n_clusters=4)
 I wanted to know the individual team performance if some teams step up in the 4th quarter:
-* The top 2 in the season standings (i.e., PHOENIX SUNS, MEMPHIS GRIZZLIES) grouped in the same cluster
+* The top 2 in the season standings (i.e., DALAS, BOSTON) grouped in the same cluster
 * Also, the bottom teams were all grouped in one cluster
 * The other two groups were teams who are in the middle or don't improve much in the 4th quarter to be in the elite cluster
 
 ## Conclusion
-I couldn't prove that the defence improved in the game's last quarter. The lower scoring average in the 4th is a result of fewer possessions.
-Still, some teams play better in the 4th quarter, and it is not a coincidence that these are the top-ranked teams in the league. Because of that, my claim would be that the best teams have an on-switch and can play their best when it matters.
+"I was unable to demonstrate that defensive intensity increases in the last quarter of the game. The lower scoring average in the 4th quarter is primarily due to a reduced number of possessions. However, certain teams consistently perform better in the 4th quarter, and it’s no coincidence that these are the league's top-ranked teams. This suggests that the best teams have the ability to elevate their performance when it matters most."
