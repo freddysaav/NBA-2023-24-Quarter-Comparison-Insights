@@ -1,4 +1,4 @@
-# freddysaav-NBA-2023-24-Quarter-Comparison-Insights
+  # NBA-2023-24-Quarter-Comparison-Insights
 
 * Compares the first three quarters with the last quarter --> fewer points in the 4th quarter are a result of slower pace (fewer possessions), not because of more defensive intensity
 * Scraped the games and box score stats of the 2021/2022 season
