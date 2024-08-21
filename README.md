@@ -32,7 +32,7 @@ For the comparison, I created new variables:
 I looked at the distributions of the data and combined different statistics. Below are a few highlights from the pivot tables. 
 
 !![confusion](https://github.com/user-attachments/assets/e668cc1b-763f-4c8c-95ff-bb01f0872138)
-![download-1](https://user-images.githubusercontent.com/60159274/193351801-02bda442-2f59-45e7-8399-af5524890c3e.png)
+![avg](https://github.com/user-attachments/assets/8983f069-24f9-4343-9f9a-408b208337cf)
 
 ## 2-sample t-test
 I tested statistics from the first three quarters to see if they're significantly different from the 4th quarter:
